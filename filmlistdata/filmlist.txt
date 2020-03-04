@@ -1,0 +1,37 @@
+Schindler's List|Steven Spielberg|Biography/Drama/History|1993
+Casablanca|Michael Curtiz|Drama/Romance/War|1942
+Citizen Kane|Orson Welles|Drama/Mystery|1941
+The Godfather|Francis Ford Coppola|Crime/Drama|1972
+The Godfather: Part 2|Francis Ford Coppola|Crime/Drama|1974
+Forrest Gump|Robert Zemeckis|Drama/Romance|1994
+Star Wars: Episode 5 - A New Hope|George Lucas|Action/Adventure/Fantasy|1977
+Apocalypse Now|Francis Ford Coppola|Drama/War|1979
+Amadeus|Milos Forman|Biography/Drama/History|1984
+The Lord of the Rings: The Return of the King|Peter Jackson|Adventure/Drama/Fantasy|2003
+Gladiator|Ridley Scott|Action/Adventure/Drama|2000
+Titanic|James Cameron|Drama/Romance|1997
+Saving Private Ryan|Steven Spielberg|Drama/War|1998
+Rocky|John Avildsen|Drama/Sport|1976
+To Kill a Mockingbird|Robert Milligan|Crime/Drama|1962
+Jaws|Steven Spielberg|Adventure/Drama/Thriller|1975
+Jaws 2|Jeannot Szwarc|Drama/Thriller|1978
+Jaws 3-D|Joe Alves|Mystery/Thriller|1983
+Braveheart|Mel Gibson|Biography/Drama/History|1995
+Jurassic Park|Steven Spielberg|Adventure/Sci-Fi/Thriller|1993
+The Pianist|Roman Polanski|Biography/Drama/Music|2002
+The Avengers|Russo Brothers|Action/Adventure|2012
+Star Wars|George Lucas|Action/Adventure/Fantasy|1999
+The Social Network|David Fincher|Biography/Drama|2010
+Mad Max: Fury Road|George Miller|Action/Adventure/Sci-Fi|2015
+Badlands|Terrence Malick|Crime/Drama|1973
+La La Land|Damien Chazelle|Comedy/Drama/Music|2016
+Inception|Christopher Nolan|Action/Adventure/Sci-Fi|2010
+Aliens|James Cameron|Action/Adventure/Sci-Fi|1986
+Coco|Lee Unkrich/Adrian Molina|Animation/Adventure/Comedy|2017
+Wall-E|Andrew Stanton|Animation/Adventure/Family|2008
+Inside Out|Pete Docter/Ronnie Del Carmen|Animation/Adventure/Comedy|2015
+Whiplash|Damien Chazelle|Drama/Music|2014
+The Dark Knight|Christopher Nolan|Action/Crime/Drama|2008
+Jurassic World|Colin Trevorrow|Sci-Fi/Thriller|2015
+Black Panther|Ryan Coogler|Fantasy/Sci-Fi|2018
+The Terminator|James Cameron|Fantasy/Sci-Fi|1984
